@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Исключить виртуальное окружение
+venv/
+.env
+
+# Исключить кеш Python
+__pycache__/
+*.py[cod]
+
+# Файлы сборок и дистрибутивов
+build/
+dist/
+*.egg-info/
+
+# Логи и файлы покрытия тестов
+*.log
+.coverage
+
+# Секретные конфигурационные файлы окружения
+*.env
+
+# Игнорировать файлы базы данных SQLite3
+*.sqlite3
