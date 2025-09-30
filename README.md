@@ -1,1 +1,1 @@
-
+АРМ на Django, FastApi
